@@ -1,0 +1,57 @@
+.container{
+    height: 400px;
+    width: 350px;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 15%;
+    background-color: white;
+    font-family: "Skranji", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#kodamForm{
+    margin: 20px;
+}
+
+input{
+    width: 270px;
+    height: 10px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 5px;
+    background-color:#F2F1F1;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.button{
+    width: 310px;
+    height: 35px;
+    padding: auto;
+    margin: 8px 0;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    background-color:#11BB55;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#hasil{
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    margin: auto;
+}
+
+#output{
+    margin: auto;
+    margin-top: 2%;
+    text-align: center;
+}
